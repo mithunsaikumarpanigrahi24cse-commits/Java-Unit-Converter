@@ -13,7 +13,12 @@ It allows users to convert between different units:
 - User chooses a category from the menu.
 - Program asks for input value and unit type.
 - Performs conversion and displays the result.
-- 
+
+## 🔹 Tech Used
+- Language: *Java*  
+- Input Handling: *BufferedReader*  
+---
+
 ### 🔹 Sample Output
 Java Unit Converter!!!
 Created By: Mithun Sai Kumar
@@ -23,10 +28,6 @@ Created By: Mithun Sai Kumar
 4.Mass Conversion (Kilograms <-> Grams)
 5.Exit
 Enter your choice:
----
-## 🔹 Tech Used
-- Language: *Java*  
-- Input Handling: *BufferedReader*  
 ---
 ## 🔹 How to Run
 1. Clone the repository

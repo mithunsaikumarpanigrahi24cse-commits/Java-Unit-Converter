@@ -29,12 +29,11 @@ Enter your choice:
 - Input Handling: *BufferedReader*  
 ---
 ## 🔹 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Java-Unit-Converter.git
- 2.Compile the program:  javac UnitConverter.java
- 3.Run the program:      java UnitConverter
+1. Clone the repository
+2. Open the project in your java IDE
+3.Compile the program:  javac UnitConverter.java
+4.Run the program:      java UnitConverter
    
 ### 🔹 Author
-👤 Mithun Sai Kumar  
+👤 Mithun Sai Kumar Panigrahi
 📚 2nd Year Engineering Student

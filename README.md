@@ -31,8 +31,8 @@ Enter your choice:
 ## 🔹 How to Run
 1. Clone the repository
 2. Open the project in your java IDE
-Compile the program:  javac UnitConverter.java
-Run the program:      java UnitConverter
+, Compile the program:  javac UnitConverter.java
+, Run the program:      java UnitConverter
    
 ### 🔹 Author
 👤 Mithun Sai Kumar Panigrahi
